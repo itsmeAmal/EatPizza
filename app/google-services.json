@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "537875225629",
+    "firebase_url": "https://eat-pizza-2.firebaseio.com",
+    "project_id": "eat-pizza-2",
+    "storage_bucket": "eat-pizza-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537875225629:android:dd8461b87563aa23",
+        "android_client_info": {
+          "package_name": "com.example.amal.eatpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537875225629-a0vac0e95du74n7plmnnb1oeiko4ih57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amal.eatpizza",
+            "certificate_hash": "57698f2cd1c43b30e49998414b0b8e316a534b8c"
+          }
+        },
+        {
+          "client_id": "537875225629-r8kn1rldccjdsq29055hno7k21or7ke2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFrzXHOMu_Ywv4FpmKMYVd6pBpTbnj51U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537875225629-r8kn1rldccjdsq29055hno7k21or7ke2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
